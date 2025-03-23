@@ -16,7 +16,7 @@
 <p align="left">
 </p>
  
-  <a href="https://github.com/Lookitskakarot/MyVidyapeeth-app-demo" ><img src="https://github.com/Lookitskakarot/LookitsKakarot/blob/main/MyVidyapeeth-icon.jpg?raw=true" alt="MyVidyapeeth" width="50" height="50"/><h4>MyVidyapeeth</h4></a>
+  <a href="" ><img src="https://github.com/Lookitskakarot/LookitsKakarot/blob/main/MyVidyapeeth-icon.jpg?raw=true" alt="MyVidyapeeth" width="50" height="50"/><h4>MyVidyapeeth</h4></a>
   <h4>MyMedd</h4>
 
 <h3 align="left">Languages and Tools:</h3>
